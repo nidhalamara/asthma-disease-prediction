@@ -24,8 +24,6 @@ thus when you train a new model, it will have some better results
 the test body should match the same fields as in the file called schema.json
 
 
-this project was made for educational purposes :
+this project was made for educational purposes and was made with love.
 
-the dataset that we've used is from https://www.kaggle.com/code/mohansss/asthma-disease-prediction/input\n
-
-this project is made with love.
+the dataset that we've used is from https://www.kaggle.com/code/mohansss/asthma-disease-prediction/input
