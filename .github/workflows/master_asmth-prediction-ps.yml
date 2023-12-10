@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'asmth-prediction-PS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDE5C87BDA70442BAA60DBD4F6E4541E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FEC6919578347A3A52CFCB90E29D38C }}
