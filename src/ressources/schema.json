@@ -1,0 +1,7 @@
+{
+  "schema": ["Tiredness","Dry-Cough","Difficulty-in-Breathing",
+    "Sore-Throat","None_Sympton","Pains","Nasal-Congestion",
+    "Runny-Nose","None_Experiencing","Age","Gender"
+    ,"Severity"
+  ]
+}
